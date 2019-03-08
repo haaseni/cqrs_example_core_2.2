@@ -1,0 +1,5 @@
+H:\Projects\github\cqrs_example_core_2.2.dapper\bin\Debug\netcoreapp2.2\cqrs_example_core_2.2.dapper.deps.json
+H:\Projects\github\cqrs_example_core_2.2.dapper\bin\Debug\netcoreapp2.2\cqrs_example_core_2.2.dapper.dll
+H:\Projects\github\cqrs_example_core_2.2.dapper\obj\Debug\netcoreapp2.2\cqrs_example_core_2.2.dapper.csproj.CoreCompileInputs.cache
+H:\Projects\github\cqrs_example_core_2.2.dapper\obj\Debug\netcoreapp2.2\cqrs_example_core_2.2.dapper.AssemblyInfoInputs.cache
+H:\Projects\github\cqrs_example_core_2.2.dapper\obj\Debug\netcoreapp2.2\cqrs_example_core_2.2.dapper.AssemblyInfo.cs
